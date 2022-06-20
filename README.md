@@ -13,6 +13,6 @@ A React Native app for IOS - Android
 <code>cd AwesomeProject </code>
 <h4> Start Expo server </h4>
 <code>npm start</code>
-
+<h3>This project for android and ios , you can publish if you developed it . </h3>
 
 ![Weather App](https://user-images.githubusercontent.com/77233657/174681952-4cc0fea8-dcbd-4a10-bdef-6e1218e4ce59.png)
