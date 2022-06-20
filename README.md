@@ -12,4 +12,4 @@ A React Native app for IOS - Android
 <h4> Enter to folder </h4>
 <code>cd AwesomeProject </code>
 <h4> Start Expo server </h4>
-</code>npm start # you can also use: expo start</code>
+<code>npm start # you can also use: expo start</code>
